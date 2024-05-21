@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quel est le principe général en France concernant les droits des grands-parents sur leurs petits-enfants ?",
+        "Choix": [
+            "Les grands-parents ont automatiquement le droit de visite et d'hébergement sur leurs petits-enfants",
+            "Les grands-parents n'ont aucun droit sur leurs petits-enfants sauf autorisation judiciaire",
+            "Les grands-parents ont certains droits sur leurs petits-enfants, mais ils sont subordonnés à l'intérêt de ces derniers"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Selon l'article 371-4 du Code civil français, dans quelles circonstances les grands-parents peuvent-ils demander un droit de visite sur leurs petits-enfants ?",
+        "Choix": [
+            "Uniquement en cas de désaccord entre les parents",
+            "En cas de lien affectif avec leurs petits-enfants et si cela est dans l'intérêt de ces derniers",
+            "Lorsqu'ils estiment que les parents ne sont pas aptes à élever leurs enfants"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce que l'autorité parentale partagée ?",
+        "Choix": [
+            "Un partage égal des responsabilités parentales entre les parents et les grands-parents",
+            "La responsabilité légale de prendre des décisions importantes concernant l'éducation et le bien-être des enfants, partagée entre les deux parents",
+            "L'autorité exclusive des grands-parents sur leurs petits-enfants"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Conformément à l'article 371-2 du Code civil, quel est l'intérêt supérieur de l'enfant ?",
+        "Choix": [
+            "L'intérêt de l'enfant doit primer sur tout autre intérêt, y compris celui des grands-parents",
+            "L'intérêt de l'enfant doit primer sur celui des parents uniquement",
+            "L'intérêt de l'enfant doit primer sur celui de la société"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la procédure à suivre si les grands-parents souhaitent demander un droit de visite sur leurs petits-enfants ?",
+        "Choix": [
+            "Ils doivent saisir directement le juge aux affaires familiales",
+            "Ils doivent d'abord tenter une médiation familiale, puis saisir le juge si aucun accord n'est trouvé",
+            "Ils peuvent agir de leur propre chef sans impliquer les parents ou le tribunal"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quels sont les critères pris en compte par le juge pour accorder un droit de visite aux grands-parents ?",
+        "Choix": [
+            "Le seul critère est l'existence d'un lien affectif entre les grands-parents et les petits-enfants",
+            "Le juge prend en compte l'intérêt de l'enfant ainsi que le maintien des liens avec sa famille élargie",
+            "Le juge se base uniquement sur la volonté des parents"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "En vertu de l'article 371-5 du Code civil, dans quelles situations les grands-parents peuvent-ils exercer l'autorité parentale sur leurs petits-enfants ?",
+        "Choix": [
+            "Uniquement en cas de décès des parents",
+            "En cas de défaillance des parents ou lorsque l'intérêt de l'enfant le justifie",
+            "Jamais, les grands-parents n'ont pas le droit d'exercer l'autorité parentale"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la durée habituelle d'un droit de visite accordé aux grands-parents par le juge ?",
+        "Choix": [
+            "Elle est fixée de manière permanente une fois accordée",
+            "Elle peut être temporaire ou permanente selon la décision du juge",
+            "Elle est toujours temporaire et doit être renouvelée régulièrement"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la différence entre la garde des petits-enfants et le droit de visite accordé aux grands-parents ?",
+        "Choix": [
+            "Il n'y a pas de différence, les deux termes désignent la même chose",
+            "La garde implique la responsabilité quotidienne de l'enfant, tandis que le droit de visite permet seulement des contacts périodiques",
+            "Le droit de visite est un droit exclusif accordé aux grands-parents, tandis que la garde est partagée entre les parents et les grands-parents"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Selon l'article 371-3 du Code civil, qu'est-ce que le droit d'information des grands-parents ?",
+        "Choix": [
+            "Un droit permettant aux grands-parents d'avoir accès à toutes les informations concernant leurs petits-enfants",
+            "Un droit leur permettant d'être informés des événements importants de la vie de leurs petits-enfants, sauf en cas de désaccord des parents ou du juge",
+            "Un droit leur permettant d'intervenir dans les décisions éducatives concernant leurs petits-enfants"
+        ],
+        "Réponse": 1
+    }
+]
