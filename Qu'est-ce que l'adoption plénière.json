@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Qu'est-ce que l'adoption plénière ?",
+        "Choix": [
+            "L'adoption d'un enfant par un seul parent.",
+            "L'adoption d'un enfant avec l'accord de ses parents biologiques.",
+            "L'adoption qui met fin aux liens juridiques entre l'enfant adopté et sa famille biologique."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui peut adopter un enfant par adoption plénière en France ?",
+        "Choix": [
+            "Seuls les couples mariés.",
+            "Toute personne célibataire.",
+            "Les couples mariés et les personnes célibataires dans certains cas."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est l'âge minimum requis pour adopter un enfant en France ?",
+        "Choix": [
+            "18 ans.",
+            "21 ans.",
+            "25 ans."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les conditions nécessaires pour adopter un enfant par adoption plénière ?",
+        "Choix": [
+            "Un consentement préalable de l'enfant.",
+            "Une décision favorable du conseil de famille.",
+            "Une décision judiciaire prononçant l'adoption."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel effet a l'adoption plénière sur les liens de l'enfant avec sa famille biologique ?",
+        "Choix": [
+            "Les liens sont conservés mais affaiblis.",
+            "Les liens sont conservés mais gelés.",
+            "Les liens sont rompus."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Comment s'appelle le document qui officialise l'adoption plénière en France ?",
+        "Choix": [
+            "Un acte de filiation.",
+            "Un acte d'adoption.",
+            "Un acte de reconnaissance."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Peut-on annuler une adoption plénière en France ?",
+        "Choix": [
+            "Oui, à la demande de l'enfant adopté.",
+            "Oui, sous certaines conditions et par décision judiciaire.",
+            "Non, une fois l'adoption plénière prononcée, elle est irrévocable."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quels droits et devoirs acquièrent les parents adoptifs par l'adoption plénière ?",
+        "Choix": [
+            "Les mêmes droits et devoirs qu'un parent biologique.",
+            "Des droits limités par rapport à un parent biologique.",
+            "Aucun droit ni devoir spécifique."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la procédure pour adopter un enfant par adoption plénière en France ?",
+        "Choix": [
+            "Une simple déclaration à la mairie.",
+            "Une demande auprès du tribunal de grande instance.",
+            "Une autorisation spéciale du ministère de la Justice."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est l'objectif principal de l'adoption plénière en France ?",
+        "Choix": [
+            "Assurer la protection de l'enfant.",
+            "Créer une nouvelle filiation juridique.",
+            "Réunir les enfants et leurs parents biologiques."
+        ],
+        "Réponse": 1
+    }
+]
