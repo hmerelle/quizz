@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Qu'est-ce que le consentement matrimonial ?",
+        "Choix": [
+            "Un document notarié confirmant l'accord des futurs époux.",
+            "L'expression libre et volontaire de la volonté des époux de se marier.",
+            "Une cérémonie symbolique réalisée avant le mariage civil."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce qu'un mariage par procuration ?",
+        "Choix": [
+            "Un mariage célébré par un représentant diplomatique en l'absence d'un des futurs époux.",
+            "Un mariage célébré en secret.",
+            "Un mariage annulé par un tribunal."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelles sont les conséquences du mariage sur la nationalité des époux en France ?",
+        "Choix": [
+            "Les époux acquièrent automatiquement la nationalité de leur conjoint.",
+            "Le mariage n'a pas d'impact sur la nationalité des époux.",
+            "Le mariage peut faciliter l'acquisition de la nationalité française pour un conjoint étranger."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qu'est-ce que l'opposition au mariage ?",
+        "Choix": [
+            "Une contestation du mariage par un membre de la famille.",
+            "Une procédure pour empêcher la célébration d'un mariage.",
+            "Une condition préalable au mariage pour s'assurer de la volonté des futurs époux."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce qu'une dispense d'âge pour se marier en France ?",
+        "Choix": [
+            "Une autorisation spéciale pour se marier avant l'âge légal.",
+            "Une procédure pour se marier après l'âge légal.",
+            "Une dispense de la publication des bans."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que le domicile matrimonial ?",
+        "Choix": [
+            "Le lieu de résidence habituel des époux après le mariage.",
+            "Le lieu de célébration du mariage.",
+            "Le domicile des parents de l'époux le plus âgé."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la différence entre un mariage civil et un mariage religieux en France ?",
+        "Choix": [
+            "Un mariage civil est obligatoire tandis qu'un mariage religieux est facultatif.",
+            "Un mariage civil a une validité légale tandis qu'un mariage religieux n'a qu'une valeur symbolique.",
+            "Un mariage religieux est réservé aux personnes de la même religion."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce que le devoir de secours entre époux ?",
+        "Choix": [
+            "L'obligation de se protéger mutuellement contre les risques du mariage.",
+            "L'obligation de subvenir aux besoins de l'autre dans le cadre du mariage.",
+            "L'obligation de porter secours à des tiers en cas d'urgence."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce qu'une clause de préciput dans un contrat de mariage ?",
+        "Choix": [
+            "Une clause permettant à l'un des époux de récupérer ses biens personnels en cas de divorce.",
+            "Une clause réservant une partie des biens du mariage à l'un des époux en cas de décès de l'autre.",
+            "Une clause limitant la liberté de mouvement des époux après le mariage."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les conséquences juridiques de l'annulation d'un mariage en France ?",
+        "Choix": [
+            "Les époux retrouvent leur statut de célibataire.",
+            "Les époux conservent certains droits et obligations découlant du mariage.",
+            "Les époux perdent tous les droits et obligations découlant du mariage."
+        ],
+        "Réponse": 1
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "Question": "Qu'est-ce que le concubinage ?",
+        "Choix": [
+            "Une union entre deux personnes de même sexe.",
+            "Une union de fait entre deux personnes vivant en couple, sans être mariées ni pacsées.",
+            "Une union civile reconnue par l'État."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les différences entre le mariage et le concubinage en termes de droits et d'obligations ?",
+        "Choix": [
+            "Aucune, les droits et obligations sont les mêmes.",
+            "Le mariage offre plus de droits et de protections que le concubinage.",
+            "Le concubinage offre plus de flexibilité que le mariage."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les obligations des concubins envers leurs enfants communs ?",
+        "Choix": [
+            "Les mêmes obligations que les parents mariés.",
+            "Aucune obligation légale.",
+            "Des obligations limitées par rapport aux parents mariés."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que le Pacte Civil de Solidarité (PACS) par rapport au concubinage ?",
+        "Choix": [
+            "Une forme de concubinage enregistrée par l'État.",
+            "Un contrat officiel entre deux personnes vivant en couple, offrant certains droits similaires au mariage.",
+            "Un mariage civil réservé aux couples de même sexe."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est l'avantage principal du PACS par rapport au concubinage en France ?",
+        "Choix": [
+            "Une reconnaissance officielle de l'union par l'État.",
+            "Des avantages fiscaux et sociaux.",
+            "Une facilitation des procédures de séparation."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les conséquences fiscales du concubinage en France ?",
+        "Choix": [
+            "Les concubins bénéficient des mêmes avantages fiscaux que les couples mariés.",
+            "Les concubins sont imposés séparément.",
+            "Les concubins sont imposés ensemble comme un couple marié."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quels droits successoraux ont les concubins en France ?",
+        "Choix": [
+            "Les mêmes droits que les époux mariés.",
+            "Aucun droit automatique, sauf si désigné par testament.",
+            "Des droits limités uniquement sur les biens acquis en commun."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment peut-on prouver le concubinage en France ?",
+        "Choix": [
+            "Par la possession d'un contrat de concubinage enregistré à la mairie.",
+            "Par la preuve de la vie commune et de la communauté de vie.",
+            "Par la déclaration d'impôts commune."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les différences entre le concubinage et le mariage en termes de dissolution de l'union ?",
+        "Choix": [
+            "Aucune, les procédures sont les mêmes.",
+            "Le concubinage se dissout par simple volonté des parties, tandis que le mariage nécessite une procédure légale.",
+            "Le mariage se dissout par simple volonté des parties, tandis que le concubinage nécessite une procédure légale."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la principale protection offerte par le concubinage en cas de séparation ?",
+        "Choix": [
+            "La protection des droits de propriété.",
+            "La protection des droits de visite des enfants.",
+            "Aucune protection spécifique, sauf en cas de désaccord sur les biens communs."
+        ],
+        "Réponse": 2
+    }
+
+]

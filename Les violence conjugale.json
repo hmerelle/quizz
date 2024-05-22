@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Selon l'article 222-13 du Code pénal français, quelles sont les formes de violences constitutives de violences conjugales ?",
+        "Choix": [
+            "Uniquement les violences physiques",
+            "Les violences physiques, psychologiques, sexuelles et économiques",
+            "Les violences verbales uniquement"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Conformément à l'article 515-9 du Code civil, quel est l'objectif principal de l'ordonnance de protection ?",
+        "Choix": [
+            "Accorder la garde exclusive des enfants à la victime",
+            "Protéger la victime en lui accordant des mesures de protection telles que l'éloignement du conjoint violent",
+            "Donner au conjoint violent une chance de se racheter"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Selon l'article 222-14 du Code pénal français, quelles peines sont encourues en cas de violences conjugales ?",
+        "Choix": [
+            "Une amende uniquement",
+            "Des peines d'emprisonnement et une amende",
+            "Uniquement des travaux d'intérêt général"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "En vertu de l'article 373-2-9 du Code civil, comment les violences conjugales peuvent-elles affecter la garde des enfants lors d'une procédure de divorce ?",
+        "Choix": [
+            "Elles n'ont aucun impact sur la garde des enfants",
+            "Elles peuvent entraîner une restriction du droit de visite du conjoint violent ou une garde exclusive accordée à l'autre parent",
+            "Elles garantissent automatiquement la garde exclusive à la victime"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle loi française régit spécifiquement les violences conjugales ?",
+        "Choix": [
+            "La loi sur le mariage et le divorce",
+            "La loi du 9 juillet 2010 relative aux violences faites aux femmes",
+            "La loi sur la propriété matrimoniale"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Selon l'article 222-4-10 du Code pénal français, qu'est-ce que le délit de 'violences habituelles' dans le contexte des violences conjugales ?",
+        "Choix": [
+            "Un acte unique de violence commis par un conjoint",
+            "La répétition d'actes de violence sur une période prolongée",
+            "Une forme légère de violence tolérée dans le mariage"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel article du Code civil français garantit à toute personne le droit de déposer une plainte pour violences conjugales ?",
+        "Choix": [
+            "L'article 515-9",
+            "L'article 222-14",
+            "L'article 515-12"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Conformément à l'article 373-2-11 du Code civil, quelles sont les mesures de protection que peut inclure une ordonnance de protection ?",
+        "Choix": [
+            "L'obligation de verser une pension alimentaire",
+            "L'éloignement du conjoint violent, l'interdiction de contact et l'attribution provisoire de la jouissance du logement conjugal",
+            "La médiation familiale obligatoire"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Selon l'article 222-9 du Code pénal français, quelle est la peine encourue en cas de violences conjugales ayant entraîné la mort de la victime ?",
+        "Choix": [
+            "La réclusion criminelle à perpétuité",
+            "Uniquement des travaux d'intérêt général",
+            "Une amende"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "En vertu de l'article 132-80 du Code pénal français, quelles sont les circonstances aggravantes pouvant être retenues dans les affaires de violences conjugales ?",
+        "Choix": [
+            "Aucune circonstance aggravante n'est prévue",
+            "Lorsque la victime est mineure",
+            "Lorsque les violences sont commises par le conjoint dans le but de contraindre la victime à quitter le domicile conjugal"
+        ],
+        "Réponse": 2
+    }
+]

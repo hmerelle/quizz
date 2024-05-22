@@ -1,0 +1,93 @@
+[
+    {
+        "Question": "Quel est l'âge minimum légal pour se marier en France ?",
+        "Choix": [
+            "16 ans",
+            "18 ans",
+            "21 ans"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel tribunal est compétent pour les affaires de divorce en France ?",
+        "Choix": [
+            "Tribunal de grande instance",
+            "Tribunal d'instance",
+            "Tribunal administratif"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la durée légale du congé maternité en France ?",
+        "Choix": [
+            "12 semaines",
+            "16 semaines",
+            "20 semaines"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui est désigné comme tuteur légal d'un enfant en cas de décès des parents sans désignation préalable ?",
+        "Choix": [
+            "Le grand-parent le plus proche",
+            "Le maire de la commune",
+            "Le juge des tutelles"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qu'est-ce que la pension alimentaire ?",
+        "Choix": [
+            "Une somme versée par l'État aux familles nombreuses",
+            "Une contribution financière versée par un parent à l'autre pour subvenir aux besoins de l'enfant",
+            "Une aide sociale destinée aux personnes âgées"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "À quel âge un enfant peut-il exprimer son choix quant au parent chez lequel il souhaite résider en cas de séparation ?",
+        "Choix": [
+            "10 ans",
+            "12 ans",
+            "14 ans"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle est la procédure légale pour changer de nom en France ?",
+        "Choix": [
+            "Déclaration auprès de la mairie",
+            "Autorisation du ministère de l'Intérieur",
+            "Jugement du tribunal de grande instance"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel document est nécessaire pour reconnaître légalement un enfant né hors mariage ?",
+        "Choix": [
+            "Acte de reconnaissance",
+            "Livret de famille",
+            "Acte de naissance"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qui peut demander une adoption plénière en France ?",
+        "Choix": [
+            "Les couples mariés uniquement",
+            "Les couples mariés et les personnes célibataires",
+            "Uniquement les personnes célibataires"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la durée légale du congé parental en France ?",
+        "Choix": [
+            "6 mois",
+            "1 an",
+            "3 ans"
+        ],
+        "Réponse": 1
+    }
+]
+

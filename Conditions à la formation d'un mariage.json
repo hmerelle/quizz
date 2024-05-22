@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quelles sont les conditions générales pour contracter mariage en France ?",
+        "Choix": [
+            "Être de nationalité française.",
+            "Être majeur(e) et consentant(e).",
+            "Avoir un revenu stable."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui peut célébrer un mariage en France ?",
+        "Choix": [
+            "Seul un prêtre dans une église.",
+            "Un officier d'état civil à la mairie.",
+            "Un notaire dans son étude."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Combien de témoins sont nécessaires lors de la célébration d'un mariage civil en France ?",
+        "Choix": [
+            "Aucun témoin n'est nécessaire.",
+            "Un seul témoin pour chaque époux.",
+            "Deux témoins pour chaque époux."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qu'est-ce que la publication des bans ?",
+        "Choix": [
+            "Une annonce publique du mariage dans la presse.",
+            "Une formalité administrative pour informer le public du mariage à venir.",
+            "Une cérémonie traditionnelle avant le mariage."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la durée légale de la publication des bans avant le mariage en France ?",
+        "Choix": [
+            "1 semaine.",
+            "1 mois.",
+            "3 mois."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel document est nécessaire pour prouver l'identité des futurs époux lors de la célébration du mariage ?",
+        "Choix": [
+            "Un certificat médical.",
+            "Un acte de naissance.",
+            "Un contrat de mariage."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce qu'un empêchement à mariage ?",
+        "Choix": [
+            "Une objection religieuse à un mariage spécifique.",
+            "Une interdiction légale de se marier entre certaines personnes.",
+            "Une procédure pour annuler un mariage déjà célébré."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est l'âge minimum requis pour se marier en France ?",
+        "Choix": [
+            "16 ans.",
+            "18 ans.",
+            "21 ans."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Peut-on se marier avec un membre de sa famille proche en France ?",
+        "Choix": [
+            "Oui, sous certaines conditions.",
+            "Non, c'est interdit.",
+            "Oui, sans aucune restriction."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la conséquence juridique du mariage en France ?",
+        "Choix": [
+            "Les époux deviennent automatiquement des héritiers l'un de l'autre.",
+            "Les époux acquièrent une responsabilité financière conjointe.",
+            "Les époux acquièrent des droits et des devoirs mutuels définis par la loi."
+        ],
+        "Réponse": 2
+    }
+]

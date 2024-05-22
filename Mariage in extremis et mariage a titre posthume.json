@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quelle est la principale différence entre le mariage in extremis et le mariage à titre posthume ?",
+        "Choix": [
+            "Le mariage in extremis est célébré avant le décès de l'un des époux, tandis que le mariage à titre posthume est célébré après le décès de l'un des époux.",
+            "Le mariage in extremis est célébré en secret, tandis que le mariage à titre posthume est célébré publiquement.",
+            "Le mariage in extremis est réservé aux personnes malades, tandis que le mariage à titre posthume concerne les personnes décédées dans des circonstances spécifiques."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qui peut autoriser un mariage in extremis en France ?",
+        "Choix": [
+            "Le maire de la commune où réside l'un des futurs époux.",
+            "Le président de la République.",
+            "Le juge des affaires familiales."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel est le délai maximum pour demander un mariage à titre posthume après le décès de l'un des époux ?",
+        "Choix": [
+            "6 mois.",
+            "1 an.",
+            "2 ans."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelles sont les conditions requises pour un mariage à titre posthume ?",
+        "Choix": [
+            "Le consentement préalable des familles des époux.",
+            "La preuve que le défunt avait l'intention de se marier avant son décès.",
+            "Une autorisation spéciale du gouvernement."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la procédure pour demander un mariage à titre posthume en France ?",
+        "Choix": [
+            "Une simple déclaration à la mairie.",
+            "Une demande auprès du tribunal de grande instance.",
+            "Une demande auprès du ministère de l'Intérieur."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Peut-on contester un mariage à titre posthume en France ?",
+        "Choix": [
+            "Oui, uniquement pour des raisons de formalités administratives.",
+            "Oui, pour des raisons d'incapacité ou de défaut de consentement du défunt.",
+            "Non, le mariage à titre posthume est irrévocable."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est l'âge minimum pour se marier en France, même dans le cas d'un mariage in extremis ?",
+        "Choix": [
+            "16 ans.",
+            "18 ans.",
+            "21 ans."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment est célébré un mariage in extremis en France ?",
+        "Choix": [
+            "Lors d'une cérémonie publique à la mairie.",
+            "En présence de témoins uniquement.",
+            "Selon les souhaits du couple, en public ou en privé."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel document est nécessaire pour reconnaître légalement un mariage à titre posthume en France ?",
+        "Choix": [
+            "Un acte de décès.",
+            "Un acte de reconnaissance posthume.",
+            "Un acte de mariage spécifique."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la procédure si l'un des futurs époux est dans l'incapacité de se déplacer pour un mariage in extremis ?",
+        "Choix": [
+            "Un officier d'état civil peut se rendre sur place pour célébrer le mariage.",
+            "Le mariage ne peut pas avoir lieu.",
+            "Le mariage peut être célébré par procuration."
+        ],
+        "Réponse": 2
+    }
+]

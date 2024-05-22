@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quelle est la différence entre un divorce à l'amiable et un divorce contentieux ?",
+        "Choix": [
+            "Le divorce à l'amiable nécessite le consentement des deux époux, tandis que le divorce contentieux est prononcé par un tribunal en cas de désaccord.",
+            "Le divorce à l'amiable est moins coûteux que le divorce contentieux.",
+            "Le divorce à l'amiable est plus rapide que le divorce contentieux."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que la prestation compensatoire dans le cadre d'un divorce ?",
+        "Choix": [
+            "Une pension alimentaire versée par l'un des conjoints à l'autre.",
+            "Une somme d'argent versée à l'époux le moins fortuné pour compenser la disparité des niveaux de vie résultant du divorce.",
+            "Une indemnisation pour préjudice moral."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce que la garde alternée dans le cadre d'un divorce ?",
+        "Choix": [
+            "La durée du mariage et les besoins de l'époux demandeur.",
+            "Le revenu des deux époux.",
+            "La volonté du juge."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que la garde alternée dans le cadre d'un divorce ?",
+        "Choix": [
+            "La garde exclusive confiée à l'un des parents.",
+            "La garde partagée des enfants par les deux parents, avec une alternance de périodes de résidence.",
+            "La garde confiée à un tiers."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les principales étapes d'une procédure de divorce contentieux en France ?",
+        "Choix": [
+            "La conciliation, l'assignation en justice, l'audience de plaidoirie.",
+            "La demande en divorce, la médiation, le jugement.",
+            "La séparation de fait, la demande en divorce, le jugement."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que la liquidation du régime matrimonial dans le cadre d'un divorce ?",
+        "Choix": [
+            "La vente des biens immobiliers du couple.",
+            "Le partage des biens et des dettes du couple.",
+            "Le remboursement des frais de procédure."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce que le devoir de secours dans le cadre d'un divorce ?",
+        "Choix": [
+            "L'obligation de subvenir aux besoins de l'autre conjoint pendant la procédure de divorce.",
+            "L'obligation de se protéger mutuellement contre les risques du mariage.",
+            "L'obligation de rechercher une solution amiable avant de saisir le tribunal."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que l'effet suspensif d'un appel dans le cadre d'une procédure de divorce ?",
+        "Choix": [
+            "L'arrêt de l'exécution du jugement de divorce pendant l'appel.",
+            "La suspension de la procédure pendant l'appel.",
+            "L'annulation du jugement de divorce."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que la résidence séparée dans le cadre d'un divorce ?",
+        "Choix": [
+            "La séparation physique des époux.",
+            "La séparation légale des époux sans dissolution du mariage.",
+            "La séparation des biens du couple."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que l'autorité parentale conjointe dans le cadre d'un divorce ?",
+        "Choix": [
+            "La garde exclusive confiée à l'un des parents.",
+            "La responsabilité partagée des parents sur les décisions concernant l'éducation et les soins des enfants.",
+            "La délégation de l'autorité parentale à un tiers."
+        ],
+        "Réponse": 1
+    }
+]
