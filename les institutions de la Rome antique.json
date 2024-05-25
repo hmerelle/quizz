@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Quel rôle jouait le Sénat dans la Rome antique ?",
+        "Choix": [
+            "Organiser les jeux et les spectacles",
+            "Conseiller les magistrats et diriger la politique étrangère",
+            "Superviser les marchés et les commerces",
+            "Diriger les légions romaines sur le champ de bataille"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Combien de consuls étaient élus chaque année dans la République romaine ?",
+        "Choix": [
+            "Un seul",
+            "Deux",
+            "Trois",
+            "Quatre"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel était le rôle principal des préteurs dans la République romaine ?",
+        "Choix": [
+            "Diriger les armées",
+            "Organiser les jeux publics",
+            "Administrer la justice",
+            "Collecter les impôts"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quels étaient les principales responsabilités des édiles ?",
+        "Choix": [
+            "Gérer les finances de l'État",
+            "Superviser les travaux publics et les marchés",
+            "Diriger les cérémonies religieuses",
+            "Conduire les affaires étrangères"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle fonction unique les censeurs exerçaient-ils tous les cinq ans ?",
+        "Choix": [
+            "Gouverner la province de Rome",
+            "Organiser les élections consulaires",
+            "Recenser la population et surveiller la moralité publique",
+            "Commander la garde prétorienne"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel pouvoir spécial les tribuns de la plèbe possédaient-ils ?",
+        "Choix": [
+            "Le pouvoir d'annuler les dettes",
+            "Le pouvoir de veto contre les décisions du Sénat",
+            "Le pouvoir de nommer les consuls",
+            "Le pouvoir de commander les légions"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle était la fonction des comices centuriates ?",
+        "Choix": [
+            "Ériger des monuments publics",
+            "Élire les magistrats supérieurs et voter les lois",
+            "Diriger les cultes religieux",
+            "Administrer les provinces"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle était la principale différence entre les comices tributes et les comices centuriates ?",
+        "Choix": [
+            "Les comices tributes élisaient des magistrats mineurs et votaient des lois locales",
+            "Les comices tributes étaient composés uniquement de sénateurs",
+            "Les comices tributes géraient les finances publiques",
+            "Les comices tributes étaient responsables de la politique étrangère"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Dans quelles circonstances un dictateur pouvait-il être nommé à Rome ?",
+        "Choix": [
+            "En temps de crise grave pour une durée limitée de six mois",
+            "Pour superviser la construction de grands projets publics",
+            "Pour réformer les lois et la constitution",
+            "Pour organiser des festivités importantes"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel titre était donné aux empereurs romains qui combinaient à la fois le pouvoir militaire et civil ?",
+        "Choix": [
+            "Princeps",
+            "Consul",
+            "Imperator",
+            "Pontifex Maximus"
+        ],
+        "Réponse": 2
+    }
+]

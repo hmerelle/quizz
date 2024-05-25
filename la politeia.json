@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Qu'est-ce que la \"politeia\" dans le contexte de l'Antiquité grecque ?",
+        "Choix": [
+            "Une fête religieuse",
+            "La constitution ou le régime politique d'une cité-État",
+            "Un marché public",
+            "Un traité de commerce"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "De quel mot grec dérive \"politeia\" ?",
+        "Choix": [
+            "Polis (cité)",
+            "Politis (citoyen)",
+            "Politikos (politique)",
+            "Politeuma (institution)"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Que décrit principalement une \"politeia\" ?",
+        "Choix": [
+            "Les lois religieuses",
+            "La structure et le fonctionnement du gouvernement et les droits des citoyens",
+            "Les rituels funéraires",
+            "Les relations commerciales"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel philosophe a écrit un ouvrage intitulé \"Politeia\", souvent traduit par \"La République\" ?",
+        "Choix": [
+            "Aristote",
+            "Platon",
+            "Socrate",
+            "Héraclite"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel aspect caractérisait la \"politeia\" de Sparte ?",
+        "Choix": [
+            "La démocratie directe",
+            "Le militarisme et l'oligarchie",
+            "La monarchie absolue",
+            "Le commerce maritime"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment Aristote définissait-il la \"politeia\" dans son ouvrage \"La Politique\" ?",
+        "Choix": [
+            "Comme un type de gouvernement corrompu",
+            "Comme un régime mixte combinant des éléments de démocratie et d'oligarchie",
+            "Comme un régime purement démocratique",
+            "Comme un simple document législatif"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Dans la \"politeia\" athénienne, quelle classe sociale avait le droit de participer à l'Ecclésia (assemblée) ?",
+        "Choix": [
+            "Les esclaves",
+            "Les métèques (étrangers résidents)",
+            "Les citoyens mâles adultes",
+            "Les femmes"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est l'élément central de la \"politeia\" dans une démocratie athénienne ?",
+        "Choix": [
+            "La souveraineté des rois",
+            "La participation directe des citoyens aux décisions politiques",
+            "La domination des riches",
+            "L'intervention divine dans les affaires politiques"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Selon Aristote, combien de formes de \"politeia\" (régimes politiques) existe-t-il ?",
+        "Choix": [
+            "Une seule",
+            "Trois",
+            "Cinq",
+            "Six"
+        ],
+        "Réponse": 3
+    },
+    {
+        "Question": "Quelle réforme a profondément modifié la \"politeia\" athénienne au VIe siècle av. J.-C. ?",
+        "Choix": [
+            "La création de la Boulè",
+            "La réorganisation des tribus et la création de dèmes",
+            "L'instauration de la tyrannie",
+            "La codification des lois de Dracon"
+        ],
+        "Réponse": 1
+    }
+]

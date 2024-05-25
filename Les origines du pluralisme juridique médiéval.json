@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Quel événement a largement contribué à la formation du pluralisme juridique en Europe médiévale ?",
+        "Choix": [
+            "La chute de l'Empire romain d'Occident",
+            "La Réforme protestante",
+            "La découverte de l'Amérique",
+            "La Guerre de Cent Ans"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel type de droit a coexisté avec le droit coutumier dans l'Europe médiévale ?",
+        "Choix": [
+            "Le droit canonique",
+            "Le droit napoléonien",
+            "Le droit civil moderne",
+            "Le droit administratif"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel était le rôle principal de l'Église dans le système juridique médiéval ?",
+        "Choix": [
+            "L'application du droit civil",
+            "L'élaboration du droit commercial",
+            "L'application du droit canonique",
+            "La gestion des impôts"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel terme désigne les lois basées sur les coutumes locales dans l'Europe médiévale ?",
+        "Choix": [
+            "Les lois saliques",
+            "Les coutumes",
+            "Les capitulaires",
+            "Les édits"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel royaume médiéval est célèbre pour son recueil de lois connu sous le nom de \"Capitulaires\" ?",
+        "Choix": [
+            "Le royaume des Francs",
+            "Le royaume de Castille",
+            "Le royaume d'Angleterre",
+            "Le royaume de Hongrie"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel terme désigne les lois et régulations spécifiques à une ville ou une commune au Moyen Âge ?",
+        "Choix": [
+            "Les statuts urbains",
+            "Les chartes de franchise",
+            "Les lois saliques",
+            "Les droits de cité"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel système juridique régissait les relations entre les seigneurs et leurs vassaux ?",
+        "Choix": [
+            "Le droit canonique",
+            "Le droit romain",
+            "Le droit féodal",
+            "Le droit maritime"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle université médiévale est célèbre pour son enseignement du droit romain redécouvert ?",
+        "Choix": [
+            "L'université de Paris",
+            "L'université d'Oxford",
+            "L'université de Bologne",
+            "L'université de Salamanque"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel texte est une compilation célèbre des coutumes de l'époque médiévale ?",
+        "Choix": [
+            "Le Corpus Juris Civilis",
+            "Le Grand Coutumier de Normandie",
+            "Le Code Napoléon",
+            "Le Digeste"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment le droit romain a-t-il influencé le pluralisme juridique médiéval ?",
+        "Choix": [
+            "Il a remplacé toutes les coutumes locales",
+            "Il a été ignoré par les autorités médiévales",
+            "Il a été redécouvert et intégré dans les systèmes juridiques locaux",
+            "Il a été codifié par les rois médiévaux"
+        ],
+        "Réponse": 2
+    }
+]

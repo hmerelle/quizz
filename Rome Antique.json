@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Quel ensemble de lois constitue la première codification formelle du droit romain ?",
+        "Choix": [
+            "Le Code d'Hammurabi",
+            "La Loi des Douze Tables",
+            "Le Digeste",
+            "La Lex Romana"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel était le rôle des préteurs dans le système juridique romain ?",
+        "Choix": [
+            "Rédiger des lois",
+            "Juger des affaires civiles",
+            "Commander l'armée",
+            "Surveiller les finances publiques"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle source de droit romain comprend les édits des magistrats et des préteurs ?",
+        "Choix": [
+            "Le Jus Civile",
+            "Le Jus Gentium",
+            "Le Jus Honorarium",
+            "Le Corpus Juris Civilis"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel juriste romain est connu pour ses 'Commentaires' influents sur le droit civil romain ?",
+        "Choix": [
+            "Cicéron",
+            "Ulpien",
+            "Gaius",
+            "Justinien"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel type de crime était considéré comme 'public' (crimen) et non comme 'privé' (delictum) dans le droit romain ?",
+        "Choix": [
+            "Le vol",
+            "L'adultère",
+            "Le meurtre",
+            "La dette"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel terme désigne le statut juridique d'une personne libre et citoyen romain ?",
+        "Choix": [
+            "Servus",
+            "Peregrinus",
+            "Civis Romanus",
+            "Libertinus"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle institution juridique permettait à un père de famille d'exercer son autorité sur sa famille dans la Rome antique ?",
+        "Choix": [
+            "La tutela",
+            "La patria potestas",
+            "La manus",
+            "La curatela"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel terme latin désigne la pleine propriété d'un bien dans le droit romain ?",
+        "Choix": [
+            "Usus",
+            "Fructus",
+            "Dominium",
+            "Possessio"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel texte fait partie de la compilation du droit romain ordonnée par l'empereur Justinien ?",
+        "Choix": [
+            "Les Douze Tables",
+            "Les Institutes",
+            "La Lex Aquilia",
+            "La Lex Hortensia"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment appelle-t-on l'ensemble des œuvres juridiques qui ont été codifiées sous l'empereur Justinien et qui ont influencé les systèmes juridiques modernes ?",
+        "Choix": [
+            "La Magna Carta",
+            "Le Corpus Juris Civilis",
+            "La Loi des Douze Tables",
+            "Le Digeste"
+        ],
+        "Réponse": 1
+    }
+]

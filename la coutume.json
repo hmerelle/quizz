@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Quelle est la définition de la coutume en tant que source de droit ?",
+        "Choix": [
+            "Une loi écrite promulguée par un souverain",
+            "Une règle de droit non écrite résultant d'une pratique constante et acceptée par une communauté",
+            "Une décision judiciaire ayant force obligatoire",
+            "Un édit publié par une autorité religieuse"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "À quelle période la coutume a-t-elle commencé à jouer un rôle important en Europe ?",
+        "Choix": [
+            "Durant l'Antiquité",
+            "Pendant le Moyen Âge",
+            "À la Renaissance",
+            "À l'époque moderne"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le principal avantage de la coutume par rapport aux lois écrites ?",
+        "Choix": [
+            "Elle est plus facile à modifier",
+            "Elle est mieux adaptée aux spécificités locales",
+            "Elle est toujours codifiée",
+            "Elle est universellement applicable"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment une coutume devient-elle une règle de droit acceptée ?",
+        "Choix": [
+            "Par la promulgation d'un édit",
+            "Par une pratique répétée et acceptée par la communauté",
+            "Par la décision d'un tribunal",
+            "Par l'approbation du pape"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel texte médiéval est une célèbre compilation de coutumes locales ?",
+        "Choix": [
+            "Le Code Justinien",
+            "La Magna Carta",
+            "Le Grand Coutumier de Normandie",
+            "Les Institutes de Gaius"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle était une critique fréquente de la coutume par rapport aux lois écrites ?",
+        "Choix": [
+            "Son manque de flexibilité",
+            "Sa complexité excessive",
+            "Son incertitude et sa variabilité",
+            "Son caractère universel"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Dans quel domaine la coutume a-t-elle joué un rôle particulièrement important au Moyen Âge ?",
+        "Choix": [
+            "Le droit maritime",
+            "Le droit canonique",
+            "Le droit féodal",
+            "Le droit international"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est le rôle des coutumiers dans le système juridique médiéval ?",
+        "Choix": [
+            "Codifier les coutumes locales pour les rendre plus accessibles",
+            "Introduire de nouvelles lois",
+            "Traduire les lois romaines en langues locales",
+            "Réviser les décisions judiciaires"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Comment la coutume a-t-elle influencé les systèmes juridiques modernes ?",
+        "Choix": [
+            "Elle a été complètement abandonnée",
+            "Elle a été intégrée dans les systèmes de droit civil et de common law",
+            "Elle n'a eu aucune influence",
+            "Elle a remplacé le droit écrit"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel roi de France a ordonné la rédaction officielle des coutumes au 16ème siècle ?",
+        "Choix": [
+            "Philippe Auguste",
+            "Louis IX",
+            "François Ier",
+            "Henri IV"
+        ],
+        "Réponse": 2
+    }
+]

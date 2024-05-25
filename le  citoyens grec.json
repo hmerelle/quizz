@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Quels étaient les principaux droits des citoyens grecs dans la cité-État (polis) ?",
+        "Choix": [
+            "Droit de vote et de posséder des esclaves",
+            "Droit de participer aux affaires publiques et de posséder des terres",
+            "Droit de se marier et de commercer",
+            "Droit de voyager librement et de pratiquer toutes les religions"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment pouvait-on devenir citoyen dans une cité-État grecque comme Athènes ?",
+        "Choix": [
+            "Par l'achat de la citoyenneté",
+            "Par la naissance de parents citoyens",
+            "Par une cérémonie religieuse",
+            "Par l'approbation de l'assemblée"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles étaient les principales responsabilités des citoyens grecs ?",
+        "Choix": [
+            "Payer des impôts et servir dans l'armée",
+            "Célébrer les fêtes religieuses et commercer",
+            "Pratiquer le sport et la musique",
+            "Enseigner et voyager"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle institution athénienne permettait à tous les citoyens de participer directement aux décisions politiques ?",
+        "Choix": [
+            "Le Sénat",
+            "La Boulè",
+            "L'Ecclésia",
+            "L'Aréopage"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Comment les citoyens grecs participaient-ils au système judiciaire ?",
+        "Choix": [
+            "En devenant juges professionnels",
+            "En siégeant dans les tribunaux populaires (héliée)",
+            "En appliquant la justice dans leurs familles",
+            "En étant nommés par l'aristocratie"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel était le service militaire obligatoire pour les jeunes citoyens athéniens appelé ?",
+        "Choix": [
+            "L'éphébie",
+            "L'agogé",
+            "La cryptie",
+            "La trière"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel était le statut des femmes dans la citoyenneté grecque ?",
+        "Choix": [
+            "Elles étaient citoyennes avec les mêmes droits que les hommes",
+            "Elles étaient citoyennes mais ne pouvaient pas participer aux affaires publiques",
+            "Elles n'étaient pas considérées comme citoyennes",
+            "Elles pouvaient devenir citoyennes par le mariage"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui étaient les métèques dans les cités-États grecques ?",
+        "Choix": [
+            "Des esclaves affranchis devenus citoyens",
+            "Des étrangers résidant dans la cité mais n'ayant pas la citoyenneté",
+            "Des aristocrates ayant perdu leur citoyenneté",
+            "Des prêtres ayant des privilèges spéciaux"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui est souvent considéré comme le père de la démocratie athénienne pour ses réformes politiques ?",
+        "Choix": [
+            "Platon",
+            "Aristote",
+            "Solon",
+            "Clisthène"
+        ],
+        "Réponse": 3
+    },
+    {
+        "Question": "Quel était l'objectif principal de l'éducation des jeunes citoyens grecs ?",
+        "Choix": [
+            "Former des artistes et des philosophes",
+            "Former des commerçants prospères",
+            "Former des citoyens capables de participer aux affaires publiques et de défendre la cité",
+            "Former des prêtres et des devins"
+        ],
+        "Réponse": 2
+    }
+]

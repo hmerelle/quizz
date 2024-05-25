@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Qui est considéré comme le père de la philosophie occidentale et a enseigné à ses disciples dans l'Agora d'Athènes ?",
+        "Choix": [
+            "Socrate",
+            "Platon",
+            "Aristote",
+            "Pythagore"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel philosophe grec est principalement connu pour ses dialogues écrits, mettant en scène des discussions philosophiques ?",
+        "Choix": [
+            "Socrate",
+            "Platon",
+            "Aristote",
+            "Héraclite"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle école de pensée a été fondée par Socrate, qui se concentrait sur la recherche de la vérité à travers le questionnement et la discussion ?",
+        "Choix": [
+            "L'École d'Athènes",
+            "L'École stoïcienne",
+            "L'École platonicienne",
+            "L'École cynique"
+        ],
+        "Réponse": 3
+    },
+    {
+        "Question": "Quel disciple de Socrate a fondé l'Académie, l'une des premières institutions d'enseignement supérieur dans l'histoire de l'Occident ?",
+        "Choix": [
+            "Platon",
+            "Aristote",
+            "Diogène",
+            "Pythagore"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel philosophe grec a enseigné à Alexandre le Grand et a fondé le Lycée, une école philosophique renommée ?",
+        "Choix": [
+            "Socrate",
+            "Platon",
+            "Aristote",
+            "Diogène"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel philosophe a écrit le traité \"Éthique à Nicomaque\" et a développé la théorie de la \"vertu morale\" ?",
+        "Choix": [
+            "Socrate",
+            "Platon",
+            "Aristote",
+            "Héraclite"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel philosophe grec préconisait le cynisme, rejetant la richesse et le confort matériel au profit de la vertu et de la simplicité ?",
+        "Choix": [
+            "Socrate",
+            "Platon",
+            "Aristote",
+            "Diogène"
+        ],
+        "Réponse": 3
+    },
+    {
+        "Question": "Quel philosophe présocratique est connu pour sa doctrine du \"tout est flux\", suggérant que tout est en constante évolution et changement ?",
+        "Choix": [
+            "Socrate",
+            "Platon",
+            "Aristote",
+            "Héraclite"
+        ],
+        "Réponse": 3
+    },
+    {
+        "Question": "Quel philosophe a développé la théorie des quatre éléments (terre, eau, air, feu) comme les constituants fondamentaux de la nature ?",
+        "Choix": [
+            "Socrate",
+            "Platon",
+            "Aristote",
+            "Empédocle"
+        ],
+        "Réponse": 3
+    },
+    {
+        "Question": "Quel philosophe présocratique a théorisé que la réalité ultime est constituée d'un seul élément, l'air, appelé \"arqué\" ?",
+        "Choix": [
+            "Héraclite",
+            "Platon",
+            "Empédocle",
+            "Anaximène"
+        ],
+        "Réponse": 3
+    }
+]

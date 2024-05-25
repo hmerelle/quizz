@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Qu'est-ce que le légalisme ?",
+        "Choix": [
+            "La croyance en la primauté des jugements moraux sur les lois écrites",
+            "La doctrine qui soutient la stricte application des lois écrites",
+            "L'idée que les coutumes locales doivent primer sur les lois écrites",
+            "Un mouvement visant à abolir les lois écrites au profit des décisions judiciaires"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Dans quel pays le légalisme a-t-il joué un rôle crucial dans le développement de son système juridique antique ?",
+        "Choix": [
+            "Grèce",
+            "Chine",
+            "Inde",
+            "Égypte"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui est considéré comme le principal penseur du légisme en Chine antique ?",
+        "Choix": [
+            "Confucius",
+            "Laozi",
+            "Han Fei",
+            "Mencius"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle est la principale caractéristique de la codification des lois ?",
+        "Choix": [
+            "L'intégration de coutumes locales dans le système juridique",
+            "La rédaction et la compilation systématique des lois dans un document officiel",
+            "L'application flexible et variable des lois",
+            "La création de lois orales transmises de génération en génération"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est l'un des plus anciens exemples de codification des lois ?",
+        "Choix": [
+            "La Magna Carta",
+            "Le Corpus Juris Civilis",
+            "Le Code d'Hammurabi",
+            "Le Grand Coutumier de Normandie"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle compilation de lois a été réalisée sous l'empereur Justinien ?",
+        "Choix": [
+            "La Lex Romana",
+            "Le Corpus Juris Civilis",
+            "La Loi des Douze Tables",
+            "La Magna Carta"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel roi de France a commandé la rédaction des coutumes au 16ème siècle, contribuant ainsi à la codification du droit coutumier ?",
+        "Choix": [
+            "Philippe Auguste",
+            "Louis IX",
+            "François Ier",
+            "Henri IV"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel code juridique, promulgué en 1804, est devenu un modèle pour de nombreux systèmes juridiques dans le monde ?",
+        "Choix": [
+            "Le Code de Justinien",
+            "Le Code Napoléon",
+            "La Magna Carta",
+            "Le Code d'Hammurabi"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est l'un des principaux avantages de la codification des lois ?",
+        "Choix": [
+            "La flexibilité des lois",
+            "L'uniformité et la clarté des règles juridiques",
+            "La réduction de la législation écrite",
+            "L'incorporation des traditions orales"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est un exemple de codification juridique contemporaine qui a influencé de nombreux pays ?",
+        "Choix": [
+            "La Constitution des États-Unis",
+            "Le Code civil allemand (BGB)",
+            "Le Corpus Juris Civilis",
+            "Le Grand Coutumier de Normandie"
+        ],
+        "Réponse": 1
+    }
+]

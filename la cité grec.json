@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Qu'est-ce qu'une cité (polis) dans le contexte de l'Antiquité grecque ?",
+        "Choix": [
+            "Une grande métropole commerciale",
+            "Une communauté politique indépendante et autonome",
+            "Un village rural sous le contrôle d'un roi",
+            "Une région dominée par une seule famille aristocratique"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quels sont les principaux éléments constitutifs d'une cité grecque ?",
+        "Choix": [
+            "Une acropole, une agora, et un port",
+            "Un palais royal, une arène, et un amphithéâtre",
+            "Une forteresse, un marché, et une église",
+            "Une tour de guet, un tribunal, et une bibliothèque"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quels critères devaient être remplis pour être considéré comme citoyen dans une cité grecque comme Athènes ?",
+        "Choix": [
+            "Être né de parents libres et résider dans la cité",
+            "Avoir accompli un service militaire et être propriétaire terrien",
+            "Avoir une grande richesse et être membre d'une famille noble",
+            "Avoir voyagé dans plusieurs autres cités-États"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle institution athénienne permettait aux citoyens de voter et de débattre des lois ?",
+        "Choix": [
+            "Le Sénat",
+            "La Boulè",
+            "L'Ecclésia",
+            "L'Aréopage"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel était l'objectif principal de l'éducation des jeunes citoyens grecs ?",
+        "Choix": [
+            "Former des artisans et des commerçants",
+            "Former des citoyens capables de participer aux affaires publiques et de défendre la cité",
+            "Former des poètes et des artistes",
+            "Former des prêtres et des devins"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel rôle jouaient les temples dans la cité grecque ?",
+        "Choix": [
+            "Ils servaient de lieux de réunion pour les politiciens",
+            "Ils étaient des centres commerciaux importants",
+            "Ils étaient des lieux de culte et de rassemblement religieux",
+            "Ils servaient de prisons pour les criminels"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle activité économique était souvent au cœur de la vie d'une cité grecque côtière ?",
+        "Choix": [
+            "L'agriculture",
+            "La pêche",
+            "Le commerce maritime",
+            "L'extraction minière"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle formation militaire typique était utilisée par les hoplites grecs ?",
+        "Choix": [
+            "La phalange",
+            "La légion",
+            "Le carré",
+            "La tortue"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel type de structure était couramment utilisé pour les représentations théâtrales dans les cités grecques ?",
+        "Choix": [
+            "L'amphithéâtre",
+            "Le stade",
+            "Le théâtre en plein air",
+            "Le cirque"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle cité grecque est souvent considérée comme le berceau de la démocratie ?",
+        "Choix": [
+            "Sparte",
+            "Corinthe",
+            "Thèbes",
+            "Athènes"
+        ],
+        "Réponse": 3
+    }
+]

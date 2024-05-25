@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Quelle était la principale fonction des Comices Centuriates dans la République romaine ?",
+        "Choix": [
+            "L'élection des tribuns de la plèbe",
+            "La ratification des lois proposées par le Sénat",
+            "L'organisation des jeux publics",
+            "La déclaration de guerre et l'élection de certains magistrats"
+        ],
+        "Réponse": 3
+    },
+    {
+        "Question": "Comment étaient organisés les citoyens romains au sein des Comices Centuriates ?",
+        "Choix": [
+            "En tribus géographiques",
+            "En centuries basées sur la richesse et l'âge",
+            "En guildes professionnelles",
+            "En associations religieuses"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui présidait les séances des Comices Centuriates ?",
+        "Choix": [
+            "Un empereur romain",
+            "Un consul ou un préteur",
+            "Un sénateur influent",
+            "Un tribun de la plèbe"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel était le pouvoir des Comices Centuriates en matière de déclaration de guerre ?",
+        "Choix": [
+            "Ils pouvaient déclarer la guerre de leur propre initiative",
+            "Ils devaient ratifier toute déclaration de guerre proposée par le Sénat ou les magistrats",
+            "Ils étaient exclusivement consultés après le début des hostilités",
+            "Ils n'avaient aucun pouvoir en matière de déclaration de guerre"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle était la principale unité de vote au sein des Comices Centuriates ?",
+        "Choix": [
+            "Les tribus",
+            "Les centuries",
+            "Les guildes",
+            "Les associations religieuses"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle était la composition approximative des Comices Centuriates en termes de nombre de centuries ?",
+        "Choix": [
+            "12 centuries",
+            "30 centuries",
+            "100 centuries",
+            "193 centuries"
+        ],
+        "Réponse": 3
+    },
+    {
+        "Question": "Quelles fonctions politiques les Comices Centuriates n'avaient-elles pas ?",
+        "Choix": [
+            "Élection des consuls",
+            "Ratification des traités de paix",
+            "Nomination des sénateurs",
+            "Adoption de lois sur les questions religieuses"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel était le rôle des centuries dans le processus de vote des Comices Centuriates ?",
+        "Choix": [
+            "Chaque century votait individuellement",
+            "Les centuries étaient des groupes consultatifs",
+            "Les centuries votaient en bloc",
+            "Les centuries étaient responsables du dépouillement des votes"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle était la période historique principale pendant laquelle les Comices Centuriates étaient actifs ?",
+        "Choix": [
+            "La République romaine",
+            "L'Empire romain",
+            "La monarchie romaine",
+            "La période impériale tardive"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel était l'impact des réformes de Clisthène sur les Comices Centuriates ?",
+        "Choix": [
+            "Elles ont accru le pouvoir des centuries par rapport aux tribus",
+            "Elles ont établi les Comices Tributes comme l'assemblée principale",
+            "Elles ont aboli les Comices Centuriates au profit d'un système oligarchique",
+            "Elles n'ont eu aucun impact sur le fonctionnement des Comices Centuriates"
+        ],
+        "Réponse": 0
+    }
+]
