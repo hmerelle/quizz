@@ -1,0 +1,182 @@
+[
+    {
+        "Question": "Qu'est-ce que la réclamation adressée par l'administré au juge administratif ?",
+        "Choix": [
+            "Un recours gracieux",
+            "Un recours contentieux",
+            "Une demande d'indemnisation"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les raisons qui peuvent conduire à saisir le juge administratif ?",
+        "Choix": [
+            "Obtenir l'annulation totale ou partielle d'une décision administrative, régler un contentieux fiscal, contester la régularité des élections.",
+            "Engager la responsabilité de la personne publique, contester la régularité des élections municipales, régionales ou européennes.",
+            "Obtenir une indemnisation, régler un contentieux fiscal, contester la régularité des élections."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Avant de saisir le juge administratif, que doit-on vérifier ?",
+        "Choix": [
+            "Que le litige ne relève pas des juridictions judiciaires civiles ou pénales.",
+            "Que le litige ne relève pas des juridictions administratives.",
+            "Que le litige n'est pas réglable par la médiation."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la différence entre le recours gracieux et le recours contentieux ?",
+        "Choix": [
+            "Le recours gracieux est une procédure judiciaire, tandis que le recours contentieux est une procédure administrative.",
+            "Le recours gracieux est adressé à l'administration, tandis que le recours contentieux est adressé au juge administratif.",
+            "Le recours gracieux est adressé au juge administratif, tandis que le recours contentieux est adressé à l'administration."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la procédure permettant de saisir le juge administratif à titre provisoire ?",
+        "Choix": [
+            "La médiation",
+            "Le référé",
+            "Le recours gracieux"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Dans quelles situations peut-on recourir à la procédure de référé ?",
+        "Choix": [
+            "Pour faire constater une situation ou prononcer le sursis à exécution d'une décision administrative.",
+            "Pour obtenir une indemnisation ou régler un contentieux fiscal.",
+            "Pour contester la régularité des élections municipales ou régionales."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelles sont les mesures que le juge administratif peut prononcer en procédure de référé ?",
+        "Choix": [
+            "La révocation d'une décision administrative.",
+            "Le constat d'une situation ou le sursis à exécution d'une décision administrative.",
+            "L'indemnisation d'un préjudice subi."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Que peut demander un justiciable en procédure de référé ?",
+        "Choix": [
+            "Une indemnisation pour préjudice subi.",
+            "La révocation d'une décision administrative.",
+            "Le constat d'une situation ou le sursis à exécution d'une décision administrative."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle est la différence entre la médiation et la procédure de référé devant le juge administratif ?",
+        "Choix": [
+            "La médiation est une procédure judiciaire, tandis que le référé est une procédure administrative.",
+            "La médiation est une procédure amiable visant à parvenir à un accord entre les parties, tandis que le référé est une procédure d'urgence devant le juge administratif.",
+            "La médiation est une procédure devant le juge administratif, tandis que le référé est une procédure devant une juridiction judiciaire."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les juridictions compétentes pour régler les litiges relevant du domaine administratif ?",
+        "Choix": [
+            "Les juridictions judiciaires",
+            "Les juridictions administratives",
+            "Les tribunaux de commerce"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "En cas de litige fiscal, devant quelle juridiction doit-on se tourner ?",
+        "Choix": [
+            "Le tribunal de grande instance",
+            "Le tribunal administratif",
+            "La cour d'appel"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce que le recours contentieux permet de demander ?",
+        "Choix": [
+            "Une réparation financière pour préjudice subi",
+            "L'annulation totale ou partielle d'une décision administrative",
+            "Une indemnisation de l'administration"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui est responsable de fixer les règles du déroulement des élections municipales, cantonales, régionales ou européennes ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "L'administration électorale"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qu'est-ce que le recours gracieux ?",
+        "Choix": [
+            "Une demande d'indemnisation adressée au juge administratif",
+            "Une réclamation adressée à l'administration avant saisine du juge administratif",
+            "Une procédure de médiation entre les parties"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment s'appelle la procédure permettant de contester la régularité des élections politiques en France ?",
+        "Choix": [
+            "Le recours gracieux",
+            "Le référé",
+            "Le contentieux électoral"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qu'est-ce que la médiation ?",
+        "Choix": [
+            "Une procédure judiciaire devant le juge administratif",
+            "Une procédure amiable visant à parvenir à un accord entre les parties",
+            "Une procédure permettant de demander une réparation financière"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui peut saisir le juge administratif en cas de litige avec une personne publique ?",
+        "Choix": [
+            "Uniquement les avocats",
+            "Tout justiciable, personne physique ou morale, privée ou publique",
+            "Seulement les personnes morales de droit public"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la responsabilité de l'administration dans un litige administratif ?",
+        "Choix": [
+            "Aucune responsabilité",
+            "Une responsabilité civile",
+            "Une responsabilité administrative"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui est habilité à prononcer la responsabilité de l'administration en cas de dommage causé par un service public ?",
+        "Choix": [
+            "Le juge judiciaire",
+            "Le juge administratif",
+            "Le président de la République"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la particularité de la procédure de référé devant le juge administratif ?",
+        "Choix": [
+            "Elle est lente et complexe",
+            "Elle est rapide et d'urgence",
+            "Elle est coûteuse et nécessite un avocat"
+        ],
+        "Réponse": 1
+    }
+]

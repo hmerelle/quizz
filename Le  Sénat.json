@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quel est le rôle principal du Sénat dans le système politique français ?",
+        "Choix": [
+            "Proposer des lois",
+            "Examiner et voter les lois",
+            "Contrôler l'action du gouvernement"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Combien de membres composent le Sénat français ?",
+        "Choix": [
+            "100 membres",
+            "348 membres",
+            "577 membres"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment les membres du Sénat sont-ils choisis ?",
+        "Choix": [
+            "Par suffrage universel direct",
+            "Par les membres de l'Assemblée nationale",
+            "Par les grands électeurs"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle est la durée du mandat des sénateurs en France ?",
+        "Choix": [
+            "3 ans",
+            "5 ans",
+            "7 ans"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui préside les séances du Sénat ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "Le Président du Sénat"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est le pouvoir du Sénat en matière de révision constitutionnelle ?",
+        "Choix": [
+            "Le Sénat peut proposer une révision constitutionnelle",
+            "Le Sénat peut rejeter une révision constitutionnelle proposée par l'Assemblée nationale",
+            "Le Sénat peut seul adopter une révision constitutionnelle"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment les lois sont-elles adoptées au Sénat ?",
+        "Choix": [
+            "Par un vote à la majorité simple",
+            "Par un vote à la majorité absolue",
+            "Par un vote à la majorité des trois cinquièmes"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel est le rôle du Sénat en matière de représentation territoriale ?",
+        "Choix": [
+            "Le Sénat représente uniquement les grandes villes",
+            "Le Sénat représente les régions et les départements",
+            "Le Sénat représente uniquement les zones rurales"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment le Sénat participe-t-il au processus législatif ?",
+        "Choix": [
+            "En proposant des projets de loi",
+            "En amendant et en votant les projets de loi",
+            "En promulguant les lois"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le rôle du Sénat en cas de motion de censure contre le gouvernement ?",
+        "Choix": [
+            "Le Sénat peut renverser le gouvernement par un vote de censure",
+            "Le Sénat peut proposer une motion de censure, mais seul l'Assemblée nationale peut la voter",
+            "Le Sénat n'a pas de pouvoir en matière de motion de censure"
+        ],
+        "Réponse": 2
+    }
+]

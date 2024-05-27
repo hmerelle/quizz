@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quel est le rôle du Défenseur des droits en France ?",
+        "Choix": [
+            "Garantir les droits des citoyens face à l'administration",
+            "Contrôler les finances publiques",
+            "Superviser les élections présidentielles"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qui nomme le Défenseur des droits ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "Les présidents de l'Assemblée nationale et du Sénat"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la durée du mandat du Défenseur des droits ?",
+        "Choix": [
+            "5 ans",
+            "7 ans",
+            "9 ans"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la fonction principale de la Commission nationale consultative des droits de l'homme ?",
+        "Choix": [
+            "Contrôler les élections présidentielles",
+            "Défendre les droits de l'homme et des libertés fondamentales",
+            "Superviser les activités des partis politiques"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui nomme les membres de la Commission nationale consultative des droits de l'homme ?",
+        "Choix1": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "Les présidents de l'Assemblée nationale et du Sénat"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la fonction principale du Conseil économique, social et environnemental (CESE) ?",
+        "Choix": [
+            "Élaborer les lois",
+            "Conseiller le gouvernement sur les questions économiques, sociales et environnementales",
+            "Contrôler le pouvoir exécutif"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui nomme les membres du Conseil économique, social et environnemental (CESE) ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "Les présidents de l'Assemblée nationale et du Sénat"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la durée du mandat des membres du Conseil économique, social et environnemental (CESE) ?",
+        "Choix": [
+            "5 ans",
+            "6 ans",
+            "9 ans"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la fonction principale de la Banque de France ?",
+        "Choix": [
+            "Contrôler les élections présidentielles",
+            "Gérer la politique monétaire et financière de la France",
+            "Superviser les échanges commerciaux internationaux"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui nomme le Gouverneur de la Banque de France ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "Le Conseil des ministres"
+        ],
+        "Réponse": 0
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "Question": "Qui détermine et conduit la politique de la Nation en France ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "Le Parlement"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le principal organe responsable devant le Parlement en France ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Sénat",
+            "Le Gouvernement"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui détient le pouvoir règlementaire en France ?",
+        "Choix": [
+            "Le Parlement",
+            "Le Premier ministre",
+            "Le Président de la République"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment se répartit la mission de détermination et de conduite de la politique nationale entre le Gouvernement et le Président de la République ?",
+        "Choix": [
+            "Le Gouvernement prend en charge la politique étrangère, tandis que le Président gère les affaires intérieures.",
+            "Le Gouvernement gère les affaires internes, tandis que le Président s'occupe des affaires internationales.",
+            "Le Gouvernement gère les \"contingences\", tandis que le Président est responsable des choix stratégiques engageant l'avenir de la France."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui partage l'initiative des lois avec les parlementaires en France ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "Le Gouvernement"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Combien de temps le Gouvernement peut-il déterminer l'ordre du jour du Parlement ?",
+        "Choix": [
+            "Une semaine sur quatre",
+            "Deux semaines sur quatre",
+            "Trois semaines sur quatre"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle disposition constitutionnelle permet au Gouvernement de prendre des mesures relevant normalement du domaine de la loi ?",
+        "Choix": [
+            "L'article 38",
+            "L'article 20",
+            "L'article 49"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel est le rôle du Président de la République dans le système politique français ?",
+        "Choix": [
+            "Il détient le pouvoir législatif.",
+            "Il représente la France sur la scène internationale et est responsable de la défense nationale.",
+            "Il conduit la politique intérieure et nomme les ministres."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la responsabilité principale du Premier ministre en France ?",
+        "Choix": [
+            "Il est responsable de la diplomatie.",
+            "Il dirige les services administratifs de l'État.",
+            "Il est chargé de former le gouvernement et de conduire la politique de la nation."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est le rôle du Parlement dans le système politique français ?",
+        "Choix": [
+            "Il exerce le pouvoir exécutif.",
+            "Il vote les lois et contrôle l'action du gouvernement.",
+            "Il est chargé de nommer les ministres."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel pouvoir le Premier ministre détient-il en matière législative ?",
+        "Choix": [
+            "Il peut proposer des lois au Parlement.",
+            "Il peut promulguer des lois.",
+            "Il peut dissoudre l'Assemblée nationale."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel est le rôle du Président de la République dans la nomination du Premier ministre ?",
+        "Choix": [
+            "Il nomme directement le Premier ministre.",
+            "Il propose un candidat au Parlement pour approbation.",
+            "Il ne joue aucun rôle dans la nomination du Premier ministre."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Comment le Premier ministre est-il choisi en France ?",
+        "Choix": [
+            "Par nomination du Président de la République.",
+            "Par élection populaire.",
+            "Par vote du Parlement."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que l'article 38 de la Constitution française permet au Gouvernement de faire ?",
+        "Choix": [
+            "Déclarer la guerre.",
+            "Prendre des mesures relevant normalement du domaine de la loi.",
+            "Dissoudre l'Assemblée nationale."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la principale responsabilité du Premier ministre en matière législative ?",
+        "Choix": [
+            "Voter les lois.",
+            "Promulguer les lois.",
+            "Proposer des lois au Parlement."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui est le chef de l'État en France ?",
+        "Choix": [
+            "Le Président de la République.",
+            "Le Premier ministre.",
+            "Le Président du Sénat."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la fonction principale du Parlement en France ?",
+        "Choix": [
+            "Exercer le pouvoir exécutif.",
+            "Contrôler l'action du gouvernement et voter les lois.",
+            "Nommer les ministres."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment le Premier ministre est-il politiquement responsable ?",
+        "Choix": [
+            "Devant le Président de la République.",
+            "Devant le Parlement.",
+            "Devant les électeurs."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le rôle du Président de la République dans la politique étrangère ?",
+        "Choix": [
+            "Il est chargé de former le gouvernement.",
+            "Il représente la France et est responsable de la défense nationale.",
+            "Il propose des lois au Parlement."
+        ],
+        "Réponse": 1
+    }
+]

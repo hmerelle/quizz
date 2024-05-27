@@ -1,0 +1,74 @@
+[
+    {
+        "Question": "Quelles sont les personnes considérées comme citoyens français ?",
+        "Choix": [
+            "Ceux qui résident en France depuis plus de 10 ans.",
+            "Ceux qui ont la nationalité française et jouissent de leurs droits civils et politiques.",
+            "Tous les résidents légaux en France."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quels sont les droits politiques liés à la citoyenneté française ?",
+        "Choix": [
+            "Droit de résidence en France.",
+            "Droit de voter aux élections municipales et européennes.",
+            "Droit d'obtenir la nationalité française."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel lien existe-t-il entre nationalité et citoyenneté en France ?",
+        "Choix": [
+            "Il n'y a aucun lien entre nationalité et citoyenneté en France.",
+            "Le lien est très fort et la nationalité est une condition suffisante pour être citoyen.",
+            "La nationalité est une condition nécessaire mais pas suffisante pour être citoyen."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui peut voter aux élections municipales et européennes en France, même sans avoir la nationalité française ?",
+        "Choix": [
+            "Les ressortissants des pays nordiques.",
+            "Les ressortissants des pays membres de l'Union européenne.",
+            "Les ressortissants des pays de l'Organisation des Nations unies."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce qui peut exclure temporairement une personne de l'exercice de certains droits civiques et politiques ?",
+        "Choix": [
+            "La nationalité d'un autre pays.",
+            "Le statut de mineur ou de majeur sous tutelle.",
+            "L'appartenance à une autre religion."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce qui a été modifié par la loi du 5 mars 2007 concernant le droit de vote des personnes sous tutelle ?",
+        "Choix": [
+            "Elle a accordé le droit de vote à toutes les personnes sous tutelle.",
+            "Elle a laissé le juge décider du maintien ou de la suppression du droit de vote des personnes sous tutelle.",
+            "Elle a supprimé le droit de vote de toutes les personnes sous tutelle."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel événement a contribué à atténuer le lien traditionnel entre nationalité et citoyenneté en France ?",
+        "Choix": [
+            "La loi sur l'immigration de 1990.",
+            "Le traité de Maastricht de 1992 et la révision de la Constitution française qui l’a suivie.",
+            "L'entrée en vigueur de l'Euro en 2002."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le cas particulier mentionné dans le texte en ce qui concerne la citoyenneté en Nouvelle-Calédonie ?",
+        "Choix": [
+            "Les habitants de Nouvelle-Calédonie n'ont aucun lien avec la citoyenneté française.",
+            "Les habitants de Nouvelle-Calédonie sont citoyens français uniquement.",
+            "Les habitants de Nouvelle-Calédonie sont à la fois citoyens français et citoyens néo-calédoniens."
+        ],
+        "Réponse": 2
+    }
+]

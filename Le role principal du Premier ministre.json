@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quel est le rôle principal du Premier ministre dans le système politique français ?",
+        "Choix": [
+            "Représenter la France à l'étranger",
+            "Diriger le pouvoir exécutif",
+            "Superviser le pouvoir législatif"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui nomme le Premier ministre en France ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Sénat",
+            "Le Conseil constitutionnel"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Combien de temps peut durer le mandat du Premier ministre en France ?",
+        "Choix": [
+            "5 ans",
+            "4 ans",
+            "Il n'y a pas de limite de temps"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle est la principale fonction du Premier ministre lors des conseils des ministres ?",
+        "Choix": [
+            "Présenter des projets de loi",
+            "Présider la réunion",
+            "Voter sur les décisions importantes"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le lien entre le Premier ministre et le Parlement ?",
+        "Choix": [
+            "Le Premier ministre est élu par le Parlement",
+            "Le Premier ministre est le chef du Parlement",
+            "Le Premier ministre rend compte de son action devant le Parlement"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est le lien hiérarchique entre le Premier ministre et les ministres du gouvernement ?",
+        "Choix": [
+            "Les ministres sont supérieurs au Premier ministre",
+            "Le Premier ministre est hiérarchiquement au-dessus des ministres",
+            "Le Premier ministre et les ministres sont égaux en termes de hiérarchie"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le pouvoir du Premier ministre en matière de dissolution de l'Assemblée nationale ?",
+        "Choix": [
+            "Il peut dissoudre l'Assemblée nationale à tout moment",
+            "Il doit obtenir l'approbation du Président de la République pour dissoudre l'Assemblée nationale",
+            "Il ne peut pas dissoudre l'Assemblée nationale"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment le Premier ministre est-il responsable devant le Parlement ?",
+        "Choix": [
+            "Il ne rend compte de ses actions à aucun organe parlementaire",
+            "Il rend compte de ses actions à l'Assemblée nationale uniquement",
+            "Il rend compte de ses actions à l'Assemblée nationale et au Sénat"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle est la procédure à suivre en cas de démission du gouvernement dirigé par le Premier ministre ?",
+        "Choix": [
+            "Le Président de la République nomme un nouveau Premier ministre sans consultation",
+            "Le Premier ministre démissionnaire nomme son successeur",
+            "Le Premier ministre démissionnaire présente la démission du gouvernement au Président de la République"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est le rôle du Premier ministre lors de la mise en œuvre des politiques publiques ?",
+        "Choix": [
+            "Il est uniquement chargé de superviser les politiques étrangères",
+            "Il est chargé de coordonner et de superviser l'action des ministres dans la mise en œuvre des politiques publiques",
+            "Il n'a aucun rôle dans la mise en œuvre des politiques publiques"
+        ],
+        "Réponse": 1
+    }
+]

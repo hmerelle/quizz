@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Qu'est-ce que le Parlement en France ?",
+        "Choix": [
+            "L'ensemble des ministres du gouvernement",
+            "L'ensemble des députés et des sénateurs",
+            "L'ensemble des fonctionnaires de l'administration centrale"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les deux chambres qui composent le Parlement français ?",
+        "Choix": [
+            "L'Assemblée nationale et le Sénat",
+            "Le Conseil constitutionnel et le Conseil d'État",
+            "Le Parlement européen et le Parlement français"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qui sont les membres de l'Assemblée nationale ?",
+        "Choix": [
+            "Les députés",
+            "Les sénateurs",
+            "Les ministres"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Comment les membres de l'Assemblée nationale sont-ils élus ?",
+        "Choix": [
+            "Par suffrage universel direct",
+            "Par nomination du Président de la République",
+            "Par nomination du Premier ministre"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qui sont les membres du Sénat ?",
+        "Choix": [
+            "Les députés",
+            "Les sénateurs",
+            "Les ministres"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment les membres du Sénat sont-ils choisis ?",
+        "Choix": [
+            "Par suffrage universel direct",
+            "Par les membres de l'Assemblée nationale",
+            "Par les grands électeurs"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est le rôle principal du Parlement en France ?",
+        "Choix": [
+            "Élaborer et voter les lois",
+            "Gérer les finances publiques",
+            "Nommer le gouvernement"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qui peut proposer une loi au Parlement ?",
+        "Choix": [
+            "Seulement le Président de la République",
+            "Les membres du gouvernement",
+            "Les membres du Parlement et le gouvernement"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Comment une loi est-elle adoptée au Parlement ?",
+        "Choix": [
+            "Par un vote majoritaire dans une seule chambre",
+            "Par un vote majoritaire dans les deux chambres",
+            "Par un vote du Président de la République"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le rôle du Parlement en matière de contrôle de l'exécutif ?",
+        "Choix": [
+            "Le Parlement ne contrôle pas l'exécutif",
+            "Le Parlement peut renverser le gouvernement par un vote",
+            "Le Parlement peut interroger les membres du gouvernement et voter des motions de censure"
+        ],
+        "Réponse": 2
+    }
+]

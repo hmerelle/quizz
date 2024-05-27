@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Qui représente le préfet dans le département ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre et chacun des ministres",
+            "Le Maire de la ville principale"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la principale responsabilité du préfet concernant les collectivités territoriales ?",
+        "Choix": [
+            "Exercer un contrôle a priori sur leurs actes",
+            "Exercer un contrôle a posteriori sur leurs actes",
+            "Intervenir directement dans la prise de décision des collectivités"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Depuis quelle loi le contrôle des actes des collectivités territoriales par le préfet s'exerce-t-il principalement a posteriori ?",
+        "Choix": [
+            "Loi du 2 mars 1980",
+            "Loi du 2 mars 1982",
+            "Loi du 2 mars 1985"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quels sont les domaines dans lesquels le préfet peut déroger aux normes réglementaires selon le décret du 8 avril 2020 ?",
+        "Choix": [
+            "Deux domaines spécifiques",
+            "Cinq domaines spécifiques",
+            "Sept domaines spécifiques"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle est la condition principale pour que le préfet puisse déroger aux normes réglementaires ?",
+        "Choix": [
+            "L'existence de circonstances locales",
+            "La consultation du Parlement",
+            "L'approbation du Conseil Constitutionnel"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle juridiction examine les recours contre les décisions du préfet concernant les actes des collectivités territoriales ?",
+        "Choix": [
+            "Le Tribunal de Grande Instance",
+            "Le Tribunal Administratif",
+            "La Cour d'Appel"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est l'effet principal des dérogations accordées par le préfet aux normes réglementaires ?",
+        "Choix": [
+            "Renforcer les démarches administratives",
+            "Alléger les démarches administratives",
+            "Complexifier les démarches administratives"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui assiste le préfet dans l'exercice de ses fonctions au niveau du département ?",
+        "Choix": [
+            "Le Gouverneur",
+            "Le Directeur de Cabinet",
+            "Le Maire de la ville principale"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel événement historique a profondément transformé le rôle des préfets ?",
+        "Choix": [
+            "La Révolution Française",
+            "L'Empire Napoléonien",
+            "La Deuxième Guerre Mondiale"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la caractéristique principale des préfets avant la loi du 2 mars 1982 ?",
+        "Choix": [
+            "Ils détenaient le pouvoir exécutif et législatif",
+            "Ils représentaient uniquement l'État",
+            "Ils étaient élus par les citoyens"
+        ],
+        "Réponse": 0
+    }
+]

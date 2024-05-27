@@ -1,0 +1,93 @@
+[
+    {
+        "Question": "Lequel de ces rôlesne revient pas au président de la République en France ?",
+        "Choix": [
+            "Chef de l'État",
+            "Chef des armées",
+            "Chef du Parlement",
+            "Chef du gouvernement"
+        ],
+        "Réponses": 2
+    },
+    {
+        "Question": "Quelle est la responsabilité principale du président de la République vis-à-vis de la Constitution ?",
+        "Choix": [
+            "Assurer le respect de la Constitution",
+            "Modifier la Constitution à sa discrétion",
+            "Ignorer la Constitution lorsque nécessaire"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel pouvoir particulier détient le président de la République en matière de défense ?",
+        "Choix": [
+            "Le pouvoir de déclarer la guerre à d'autres pays",
+            "Le pouvoir de déclencher le feu nucléaire",
+            "Le pouvoir de conclure des traités de paix"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle réforme a renforcé le rôle du président de la République en 1962 ?",
+        "Choix": [
+            "L'élection du président au suffrage universel direct",
+            "L'instauration du quinquennat",
+            "La création du Conseil Constitutionnel"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel rôle le président de la République joue-t-il dans la politique étrangère de la France ?",
+        "Choix": [
+            "Il est responsable de la mise en œuvre des accords commerciaux.",
+            "Il n'a aucun rôle dans les affaires étrangères.",
+            "Il représente la France dans les rencontres internationales et conduit la diplomatie française."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui accrédite les ambassadeurs étrangers en France ?",
+        "Choix": [
+            "Le Premier ministre",
+            "Le ministre des Affaires étrangères",
+            "Le président de la République"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Comment est désigné le chef de l'État français ?",
+        "Choix": [
+            "Par élection par le Parlement",
+            "Par élection au suffrage universel direct",
+            "Par nomination du Premier ministre"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le pouvoir du président de la République en matière de nomination des ministres ?",
+        "Choix": [
+            "Il nomme les ministres sur recommandation du Premier ministre.",
+            "Il peut nommer tous les ministres sans l'avis du Premier ministre.",
+            "Il ne joue aucun rôle dans la nomination des ministres."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel terme désigne le domaine dans lequel le président de la République a une influence prédominante même en période de cohabitation ?",
+        "Choix": [
+            "Domaine réservé",
+            "Domaine exécutif",
+            "Domaine diplomatique"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la citation célèbre de Charles de Gaulle concernant le rôle du président de la République ?",
+        "Choix": [
+            "Le président est le garant de la souveraineté nationale.",
+            "Le président est le garant du destin de la France et de celui de la République, chargé par conséquent de graves devoirs et disposant de droits étendus.",
+            "Le président est le gardien de l'équilibre des pouvoirs."
+        ],
+        "Réponse": 1
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quelles sont les deux principales fonctions exercées par le maire ?",
+        "Choix": [
+            "Représentant de l'État et gestionnaire des affaires municipales",
+            "Agent exécutif de la collectivité territoriale et représentant de la région",
+            "Agent exécutif de la collectivité territoriale et représentant de l'État"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelles sont les responsabilités du maire en tant qu'agent exécutif de la commune ?",
+        "Choix": [
+            "Il exerce des pouvoirs de police administrative.",
+            "Il est chargé de l'exécution des décisions du conseil municipal.",
+            "Il représente la commune en justice."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qu'est-ce que la loi engagement et proximité du 27 décembre 2019 a renforcé pour les maires ?",
+        "Choix": [
+            "Leur capacité à réviser les lois locales.",
+            "Leurs pouvoirs de police, notamment la possibilité d'imposer des astreintes financières.",
+            "Leur autorité sur les élections municipales."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Sous l'autorité de qui le maire exerce-t-il des fonctions administratives et judiciaires au nom de l'État ?",
+        "Choix": [
+            "Sous l'autorité du ministre de l'Intérieur",
+            "Sous l'autorité du préfet",
+            "Sous l'autorité du président de la République"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quels sont les pouvoirs de police du maire ?",
+        "Choix": [
+            "Assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques.",
+            "Contrôler les médias locaux.",
+            "Élaborer des lois municipales."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Qu'est-ce que la loi du 13 août 2004 relative aux libertés et responsabilités locales autorise le maire à faire ?",
+        "Choix": [
+            "Subdéléguer certaines de ses attributions à des conseillers municipaux.",
+            "Exercer un contrôle accru sur les institutions régionales.",
+            "Nommer des représentants au sein du gouvernement local."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quel est le rôle du maire en matière d'organisation des élections ?",
+        "Choix": [
+            "Il assure la légalisation des signatures.",
+            "Il organise les scrutins électoraux.",
+            "Il supervise les débats politiques."
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la responsabilité particulière du maire en tant qu'officier de police judiciaire ?",
+        "Choix": [
+            "Superviser les enquêtes criminelles dans la commune.",
+            "Gérer les registres de l'état civil.",
+            "Exercer des pouvoirs de police dans le cadre des affaires judiciaires."
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelles sont les compétences déléguées que le maire peut exercer ?",
+        "Choix": [
+            "Création de classes dans les écoles et gestion des musées municipaux.",
+            "Création de lois locales et nomination des hauts fonctionnaires municipaux.",
+            "Affectation des propriétés communales et réalisation des emprunts."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Que signifie le fait que le maire exerce sous contrôle du conseil municipal ?",
+        "Choix": [
+            "Il peut prendre des décisions unilatérales sans supervision.",
+            "Il doit rendre compte de ses actes et peut se voir retirer ses délégations à tout moment.",
+            "Il est exempt de toute supervision de la part du conseil municipal."
+        ],
+        "Réponse": 1
+    }
+]

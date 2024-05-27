@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quel est le rôle principal de la police administrative ?",
+        "Choix": [
+            "Mener des enquêtes criminelles",
+            "Assurer le maintien de l'ordre public",
+            "Appliquer les peines judiciaires"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les composantes traditionnelles de l'ordre public ?",
+        "Choix": [
+            "La tranquillité, la sécurité, la moralité publique",
+            "La tranquillité, la sécurité, la salubrité",
+            "La sécurité, la moralité publique, la dignité humaine"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelles sont les composantes nouvelles de l'ordre public ?",
+        "Choix": [
+            "La moralité publique, la dignité humaine, le vivre ensemble",
+            "La sécurité, la moralité publique, le vivre ensemble",
+            "La dignité humaine, la salubrité, le vivre ensemble"
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "Quelle est la différence entre la police administrative et la police judiciaire ?",
+        "Choix": [
+            "La police administrative vise à prévenir les désordres, tandis que la police judiciaire recherche les auteurs d'infractions.",
+            "La police administrative enquête sur les crimes, tandis que la police judiciaire assure le maintien de l'ordre public.",
+            "Il n'y a pas de différence entre les deux."
+        ],
+        "Réponse": 0
+    },
+    {
+        "Question": "À quel régime juridique est soumise la police administrative ?",
+        "Choix": [
+            "Le droit civil",
+            "Le droit administratif",
+            "Le droit pénal"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Comment le juge détermine-t-il la nature d'un acte de police ?",
+        "Choix": [
+            "En fonction du montant de l'amende",
+            "En se référant à la finalité de l'action de police",
+            "En consultant la police scientifique"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la jurisprudence relative à la compétence du juge en cas d'opérations de police successives ?",
+        "Choix": [
+            "Affaire 'Société les films Lutétia'",
+            "Affaire 'Commune de Morsang-sur-Orge'",
+            "Affaire 'Société Le Profil'"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle composante de l'ordre public justifie l'interdiction de dissimuler son visage dans l'espace public ?",
+        "Choix": [
+            "La tranquillité",
+            "La moralité publique",
+            "Le vivre ensemble"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est le rôle des préfets dans la police administrative ?",
+        "Choix": [
+            "Diriger les enquêtes criminelles",
+            "Coordonner les forces de police au niveau local",
+            "Assurer la sécurité des frontières"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle mesure peut être prise pour éviter les atteintes à la décence et les troubles de conscience de la population ?",
+        "Choix": [
+            "Interdire la diffusion de films immoraux",
+            "Imposer des amendes aux contrevenants",
+            "Renforcer la surveillance électronique"
+        ],
+        "Réponse": 0
+    }
+]

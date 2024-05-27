@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Quel est le rôle principal du Conseil d'État en France ?",
+        "Choix": [
+            "L'élaboration des lois",
+            "La consultation juridique du gouvernement",
+            "L'application des décisions de justice"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Qui préside le Conseil d'État ?",
+        "Choix": [
+            "Le Président de la République",
+            "Le Premier ministre",
+            "Le Vice-président du Conseil d'État"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quel est le lien entre le Conseil d'État et le gouvernement ?",
+        "Choix": [
+            "Le Conseil d'État est une branche du gouvernement",
+            "Le Conseil d'État conseille le gouvernement et peut être saisi pour avis sur les projets de loi",
+            "Le gouvernement nomme les membres du Conseil d'État"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quelle est la fonction principale du Conseil d'État en matière de contentieux administratif ?",
+        "Choix": [
+            "Juger les litiges entre les citoyens",
+            "Contrôler la constitutionnalité des lois",
+            "Statuer sur les litiges entre les administrés et l'administration"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Qui sont les membres du Conseil d'État ?",
+        "Choix": [
+            "Des députés et des sénateurs",
+            "Des magistrats et des fonctionnaires de haut niveau",
+            "Des représentants des collectivités territoriales"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le rôle du Conseil d'État dans le processus législatif ?",
+        "Choix": [
+            "Il propose des lois au Parlement",
+            "Il contrôle la constitutionnalité des lois votées par le Parlement",
+            "Il peut être saisi pour avis sur les projets de loi"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Quelle est la particularité de la section du contentieux au sein du Conseil d'État ?",
+        "Choix": [
+            "Elle statue sur les affaires pénales",
+            "Elle est chargée de juger en dernier ressort les litiges administratifs",
+            "Elle est spécialisée dans le contrôle de constitutionnalité des lois"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le rôle de la section de législation au sein du Conseil d'État ?",
+        "Choix": [
+            "Elle est chargée de proposer des lois au Parlement",
+            "Elle contrôle la constitutionnalité des lois",
+            "Elle participe à l'élaboration des projets de loi avant leur présentation au Parlement"
+        ],
+        "Réponse": 2
+    },
+    {
+        "Question": "Comment les décisions du Conseil d'État peuvent-elles être contestées ?",
+        "Choix": [
+            "Elles ne peuvent pas être contestées, car le Conseil d'État est la plus haute juridiction administrative",
+            "Par un recours devant la Cour de cassation",
+            "Par un recours devant la Cour administrative d'appel"
+        ],
+        "Réponse": 1
+    },
+    {
+        "Question": "Quel est le lien entre le Conseil d'État et le Conseil constitutionnel ?",
+        "Choix": [
+            "Le Conseil d'État contrôle les décisions du Conseil constitutionnel",
+            "Le Conseil d'État peut saisir le Conseil constitutionnel pour vérifier la conformité d'une loi à la Constitution",
+            "Le Conseil d'État est une branche du Conseil constitutionnel"
+        ],
+        "Réponse": 1
+    }
+]
